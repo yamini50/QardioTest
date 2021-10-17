@@ -1,0 +1,6 @@
+com\qardio\monitortemperature\model\AggregatedTempData.class
+com\qardio\monitortemperature\resources\MonitorTempResource.class
+com\qardio\monitortemperature\model\InputTypeEnum.class
+com\qardio\monitortemperature\MonitorTemperatureServerApplication.class
+com\qardio\monitortemperature\model\TemperatureData.class
+com\qardio\monitortemperature\model\AggregatedTempType.class
